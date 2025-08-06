@@ -1,7 +1,7 @@
 # abapgit-PDFsnaphot_transactions
-View/Print snapshot of any SAP transactions in PDF format.
+View/Print snapshot of any SAP transactions in PDF format. 
 
-Please extract the ZIP file $PRABHA_20250806_154224.zip. This file contains the following objects.
+Please extract the ZIP file $PRABHA_20250806_154224.zip. This file contains the following objects that were developed in SAP version S4CORE 108.
 
 (1) ABAP Report zpdf_viewer
 
@@ -15,7 +15,7 @@ Please extract the ZIP file $PRABHA_20250806_154224.zip. This file contains the 
 
 Create data in the tables zfp_it_m_key and zfp_pdf_form.
 
-Sample data for the table zfp_it_m_key, Please add the needed Application Object Types (e.g. BILLING_DOCUMENT, PURCHASE_ORDER, ..etc in this table) for which you want to View/Print the transaction data in the PDF fromat.
+Sample data for the table zfp_it_m_key, Please add the needed Application Object Types (e.g. BILLING_DOCUMENT, PURCHASE_ORDER, ..etc in this table) for which you want to View/Print the transaction data in the PDF format.
 
 <img width="416" height="465" alt="image" src="https://github.com/user-attachments/assets/5ec4e7bc-103c-464e-b2da-fe0defb7ae4c" />
 
