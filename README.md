@@ -15,7 +15,7 @@ Please extract the ZIP file $PRABHA_20250806_154224.zip. This file contains the 
 
 Create data in the tables zfp_it_m_key and zfp_pdf_form.
 
-Sample data for the table zfp_it_m_key
+Sample data for the table zfp_it_m_key, Please add the needed Application Object Types (e.g. BILLING_DOCUMENT, PURCHASE_ORDER, ..etc in this table) for which you want to View/Print the transaction data in the PDF fromat.
 
 <img width="416" height="465" alt="image" src="https://github.com/user-attachments/assets/5ec4e7bc-103c-464e-b2da-fe0defb7ae4c" />
 
